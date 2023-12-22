@@ -1,0 +1,25 @@
+
+.kanban-board {
+    display: flex;
+  }
+  
+  .kanban-column {
+    margin: 0 16px;
+  }
+  
+  .kanban-cards {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .kanban-card {
+    border: 1px solid #ddd;
+    padding: 12px;
+    margin: 8px 0;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+
+  
+  
